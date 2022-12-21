@@ -3,8 +3,8 @@
 	"Language"	"telugu"
 	"Tokens"
 	{
-		"#Status_JoiningServer"	"Joining a server..."
-		"#Status_MainMenu"	"Main Menu"
+		"#Status_JoiningServer"	"సర్వర్‌లో చేరుతోంది..."
+		"#Status_MainMenu"	"ప్రధాన మెనూ"
 		"#Status_PlayingObjective"	"Playing Objective - %map%"
 		"#Status_PlayingSurvival"	"Playing Survival - %map%"
 		"#Status_PlayingCustom"	"Playing Custom - %map%"
